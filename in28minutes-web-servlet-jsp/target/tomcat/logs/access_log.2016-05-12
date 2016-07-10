@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:52 -0400] "GET / HTTP/1.1" 200 2844 http-bio-8080-exec-1 2223
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:52 -0400] "GET / HTTP/1.1" 200 2844 http-bio-8080-exec-2 2225
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:53 -0400] "GET /static/css/bootstrap.min.css HTTP/1.1" 200 118795 http-bio-8080-exec-9 8
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:53 -0400] "GET /static/css/datepicker.css HTTP/1.1" 200 4079 http-bio-8080-exec-10 4
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:53 -0400] "GET /static/js/jquery-1.10.2.min.js HTTP/1.1" 200 92981 http-bio-8080-exec-3 4
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:53 -0400] "GET /static/js/bootstrap.min.js HTTP/1.1" 200 28515 http-bio-8080-exec-3 6
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:53 -0400] "GET /static/js/bootstrap-datepicker.js HTTP/1.1" 200 10840 http-bio-8080-exec-3 3
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:02:54 -0400] "GET /static/img/todolist.ico HTTP/1.1" 200 15086 http-bio-8080-exec-3 2
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:03:06 -0400] "POST /login HTTP/1.1" 200 10293 http-bio-8080-exec-3 1327
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:03:12 -0400] "GET /todos/update?todoId=1 HTTP/1.1" 200 5628 http-bio-8080-exec-3 244
+0:0:0:0:0:0:0:1 - - [12/May/2016:17:03:27 -0400] "GET /user/logout HTTP/1.1" 200 2844 http-bio-8080-exec-3 46
